@@ -3,10 +3,6 @@
 ### Автоматизация набора утилит aircrack-ng. Написано на C++.
 
 
-
-![](https://komarev.com/ghpvc/?username=wifitool&color=blue&label=Просмотров)
-
-
 ## Основные составляющие
 
 - **code.cpp** - 
@@ -37,3 +33,9 @@
    - Raspberry Pi 3b [armhf]
  
 2. Идеи/предложения приветствуются
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=wifitool&color=blue&label=Просмотров)
