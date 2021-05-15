@@ -1,8 +1,7 @@
-# wifitool
+# Wifitool
 
-### Автоматизация набора утилит aircrack-ng. Получение файла рукопожатия (хендшейка) и брутфорс с использоваинем словаря.
+### Автоматизация набора утилит aircrack-ng. Написано на C++.
 
-#### Написан на C++
 
 
 ![](https://komarev.com/ghpvc/?username=wifitool&color=blue&label=Просмотров)
