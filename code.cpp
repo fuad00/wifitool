@@ -1,4 +1,4 @@
-// Подключаем библиотеки
+// Подключаем библиотеки!
 #include <iostream>
 #include <string>
 #include <time.h>
